@@ -1,0 +1,2 @@
+# Intrusion-Detection-in-Wireless-Sensor-Networks-Using-Regression
+This project predicts the number of barriers required for securing Wireless Sensor Networks (WSNs) using regression techniques like Linear Regression, Decision Trees, Random Forest, SVM, AdaBoost, and Gradient Boosting. It includes hyperparameter tuning, PCA, feature selection, and t-SNE visualization, with Gradient Boosting as the top performer.
